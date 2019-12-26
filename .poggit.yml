@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   SkyblockUI:
-    path: ""
+    path: "Yassin\SkyblockHubTp\Main"
 ...
